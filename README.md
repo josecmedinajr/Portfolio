@@ -1,3 +1,3 @@
 # Portfolio
 
-My Portfolio is my first homework where I will display my Professional Experience and qualifications. It will say a lot about me and show my potential to future employees.
+My Portfolio is my first homework assignment, where I will display my Professional Experience, qualifications and give a brief synopsis about myself. Future employers will gain great insight from my web page.
